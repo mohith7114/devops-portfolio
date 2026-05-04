@@ -46,6 +46,12 @@ Developer → GitHub → GitHub Actions → Docker Build → Deploy → Netlify
 
 ---
 
+## 🏗️ Architecture
+
+Developer → GitHub → GitHub Actions → Docker → Netlify
+
+---
+
 ## 🌐 Live Website
 👉 https://mohith-r.netlify.app  
 
